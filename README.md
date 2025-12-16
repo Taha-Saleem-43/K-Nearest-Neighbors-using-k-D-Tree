@@ -25,6 +25,3 @@ These metrics provide a clear assessment of classification performance for each 
 
 ## Outcome
 The KNN model with KD-Tree efficiently classifies the Iris dataset and achieves strong performance across all evaluation metrics.
-
----
-**Task Completed Successfully**
